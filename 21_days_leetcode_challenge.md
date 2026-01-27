@@ -18,13 +18,11 @@ Hello! I'm **Rakshit**, and this repository is a dedicated space where I track m
 
 | Day | Date | Problem Name | Difficulty | Solution | Notes |
 |:---:|:---:|:---|:---:|:---:|:---|
-| 1 | 2026-01-27 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Link](./Day01/Solution.py) | Used a Hash Map for $O(n)$. |
-| 2 | 2026-01-28 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟡 Medium | [Link](./Day02/Solution.cpp) | Simple DP approach. |
-| 3 | 2026-01-29 | *Coming Soon...* | - | - | - |
+| 1 | 2026-01-27 | [1. Car Fleet](https://leetcode.com/problems/car-fleet/description/) | 🟢 Easy | [Link](./Day01/Solution.py) | Used an array for $O(n)$. |
 
 ---
 
 ## 🛠️ Tech Stack
-* **Primary Languages:** Python, C++
+* **Primary Languages:** Java
 * **Version Control:** Git & GitHub
 * **Environment:** WSL (Windows Subsystem for Linux)

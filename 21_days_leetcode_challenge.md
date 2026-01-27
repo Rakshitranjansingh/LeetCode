@@ -1,9 +1,9 @@
-# 🚀 LeetCode Journey: 365 Days of Code
+# 🚀 LeetCode Journey: 21 Days of Code
 
 Hello! I'm **Rakshit**, and this repository is a dedicated space where I track my daily progress, logic, and solutions for LeetCode problems. 
 
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)
-![Language](https://img.shields.io/badge/Language-Python/C++-blue?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge)
 
 ---
 

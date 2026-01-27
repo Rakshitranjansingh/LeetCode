@@ -18,8 +18,8 @@ Hello! I'm **Rakshit**, and this repository is a dedicated space where I track m
 
 | Day | Date | Problem Name | Difficulty | Solution | Notes |
 |:---:|:---:|:---|:---:|:---:|:---|
-| 1 | 2026-01-27 | [1. Car Fleet](https://leetcode.com/problems/car-fleet/description/) | 🟢 Easy | [Link](./Day01/Solution.py) | Used an array for $O(n)$. |
-| 2 | 2026-01-27 | [2. ](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | 🟢 Easy | [Link](./Day02/Solution.py) | Used an array for $O(n)$. |
+| 1 | 2026-01-27 | [1. Car Fleet](https://leetcode.com/problems/car-fleet/description/) | 🟢 Medium | [Link](./Day01/Solution.py) | Used an array for $O(n)$. |
+| 2 | 2026-01-27 | [2. largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | 🟢 Hard | [Link](./Day02/Solution.py) | Used an array for $O(k*n)$. |
 | 1 | 2026-01-27 | [1. Car Fleet](https://leetcode.com/problems/car-fleet/description/) | 🟢 Easy | [Link](./Day01/Solution.py) | Used an array for $O(n)$. |
 | 1 | 2026-01-27 | [1. Car Fleet](https://leetcode.com/problems/car-fleet/description/) | 🟢 Easy | [Link](./Day01/Solution.py) | Used an array for $O(n)$. |
 
